@@ -1,1 +1,1 @@
-
+i2c is a serial communication protocol, which was invented in 1982 by Philips Semiconductor. It uses the Serial Data (SDA), which is the line for the master and slave to send and receive data. The Serial clock (SCL) is the line that carries the clock signal. 
